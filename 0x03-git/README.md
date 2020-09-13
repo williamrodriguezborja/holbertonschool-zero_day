@@ -2,4 +2,4 @@
 
 This project is git learning
 
-Changed with github
+Changed with github.com
